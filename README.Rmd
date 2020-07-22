@@ -19,3 +19,5 @@ knitr::opts_chunk$set(
 The goal of petrol is to keep track of my car's mileage. Shiny app to follow. 
 
 Inspired by Kara Woo's app (https://karawoo.shinyapps.io/gas-mileage/). 
+
+This is a test.
